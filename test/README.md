@@ -1,1 +1,4 @@
 ## This is where all the data with the .crcd files will be
+
+Testing was performed with 26 16-bit pre-selected generator polynomials on 727552 erroneous 65536 bit(8192 byte) packets.The test was conducted on a LINUX file system in a controlled environment. The machine used is a Dell-R740XD-Xeon-5218 with a 32x2.3G CPU and 768Gb of Memory running Linux(CentOS). The length of the message code being tested was $n=65552$, and the length of our code is $k=16$. Based on prior work, the rate at which we can expect to encounter a single undetected burst error is $1/2^{16}$ or $0.00001525878$, which implies that throughout the study, we can expect to encounter $11.1015625$ undetected errors. The correct CRCs were calculated on the un-corrupted packets and then compared against the erroneous packets. 
+
