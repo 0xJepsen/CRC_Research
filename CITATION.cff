@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CRC Research
+message: Used for testing CRC performance
+type: software
+authors:
+  - given-names: Craig
+    family-names: Partridge
+    affiliation: Colorado State University
+    email: craig.partridge@colostate.edu
+    name-suffix: Dr
+  - given-names: Waylon
+    family-names: Jepsen
+    email: waylonjepsen1@gmail.com
+    affiliation: Colorado State University
